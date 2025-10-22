@@ -5,6 +5,10 @@ Originally these tutorials are in C++, and I have adapted them to C while keepin
 
 ---
 
+![Project Screenshot](screenshot.png) 
+
+---
+
 ## 📦 How to Run
 1. Make sure you have **SDL2** installed on your system.  
 2. Compile the C files using `gcc` or your preferred compiler.  
